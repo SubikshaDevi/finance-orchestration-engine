@@ -1,7 +1,7 @@
 # Automated Financial Orchestration Engine
 
 ![Status](https://img.shields.io/badge/Status-Production-success)
-![Role](https://img.shields.io/badge/Role-Sole_Architect-blue)
+![Role](https://img.shields.io/badge/Role-Data-Scientist-blue)
 ![Stack](https://img.shields.io/badge/Tech-Python_|_Prefect_|_FastAPI_|_PostgreSQL-yellow)
 
 **A dual-sided marketplace billing engine designed to reconcile payments between Healthcare Providers (Radiologists) and Clients (Hospitals).**
