@@ -19,6 +19,8 @@ This system serves as the financial backbone for the company, handling complex v
 
 ## 🏗️ System Architecture
 
+![System Architecture Diagram](./Automated%20finance%20orchestration%20engine%20architecture.png)
+
 ### The "Mediator" Pattern
 Unlike standard SaaS billing (subscription-based), this system operates as a mediator. Every transaction (Medical Report) triggers two distinct financial events:
 1.  **Cost of Goods Sold (COGS):** The fee paid to the Radiologist (based on Grade, Seniority, Modality).
